@@ -124,3 +124,922 @@ time: 2/2
 8 LLRL 8t LRL RLR 8 LLRL 8t LRL RLR 8 LLRL 8t LRL RLR 8t LRL RLR 8t LRL RLR
 8 RLLL 8t RLR LRL 8 RLLL 8t RLR LRL 8 RLLL 8t RLR LRL 8t RLR LRL 8t RLR LRL
 8 LRRR 8t RLR LRL 8 LRRR 8t RLR LRL 8 LRRR 8t RLR LRL 8t RLR LRL 8t RLR LRL
+---
+title: Stick Control: Page 10 - Short Roll Combinations (Single Beat Rolls)
+time: 2/2
+8 RLRL 16 RLRL RLRL 8 RLRL 16 RLRL RLRL
+8 LRLR 16 LRLR LRLR 8 LRLR 16 LRLR LRLR
+8 RRLL 16 RLRL RLRL 8 RLRL 16 RLRL RLRL
+8 LLRR 16 LRLR LRLR 8 LRLR 16 LRLR LRLR
+8 RLRR 16 LRLR LRLR 8 LRLL 16 RLRL RLRL
+8 RLLR 16 LRLR LRLR 8 LRRL 16 RLRL RLRL
+8 RRLR 16 LRLR LRLR 8 LLRL 16 RLRL RLRL
+8 RRRL 16 RLRL RLRL 8 RRRL 16 RLRL RLRL
+8 LLLR 16 LRLR LRLR 8 LLLR 16 LRLR LRLR
+8 RRRR 16 LRLR LRLR 8 LLLL 16 LRLR LRLR
+8 RLRL 16 RLRL RLR_ 8 RLRL 16 RLRL RLR_
+8 LRLR 16 LRLR LRL_ 8 LRLR 16 LRLR LRL_
+8 RRLL 16 RLRL RLR_ 8 RLRL 16 RLRL RLR_
+8 LLRR 16 LRLR LRL_ 8 LRLR 16 LRLR LRL_
+8 RLRR 16 LRLR LRL_ 8 LRLL 16 RLRL RLR_
+8 RLLR 16 LRLR LRL_ 8 LRRL 16 RLRL RLR_
+8 RRLR 16 LRLR LRL_ 8 LLRL 16 RLRL RLR_
+8 RRRL 16 RLRL RLR_ 8 RRRL 16 RLRL RLR_
+8 LLLR 16 LRLR LRL_ 8 LLLR 16 LRLR LRL_
+8 RRRR 16 LRLR LRL_ 8 LLLL 16 LRLR LRL_
+---
+title: Stick Control: Page 11 - Short Roll Combinations (Double Beat Rolls)
+time: 2/2
+8 RLRL 16 RRLL RRLL 8 RLRL 16 RRLL RRLL
+8 LRLR 16 LLRR LLRR 8 LRLR 16 LLRR LLRR
+8 RRLL 16 RRLL RRLL 8 RLRL 16 RRLL RRLL
+8 LLRR 16 LLRR LLRR 8 LRLR 16 LLRR LLRR
+8 RLRR 16 LLRR LLRR 8 LRLL 16 RRLL RRLL
+8 RLLR 16 LLRR LLRR 8 LRRL 16 RRLL RRLL
+8 RRLR 16 LLRR LLRR 8 LLRL 16 RRLL RRLL
+8 RRRL 16 RRLL RRLL 8 RRRL 16 RRLL RRLL
+8 LLLR 16 LLRR LLRR 8 LLLR 16 LLRR LLRR
+8 RRRR 16 LLRR LLRR 8 LLLL 16 LLRR LLRR
+8 RLRL 16 RRLL RRL_ 8 RLRL 16 RRLL RRL_
+8 LRLR 16 LLRR LLR_ 8 LRLR 16 LLRR LLR_
+8 RRLL 16 RRLL RRL_ 8 RLRL 16 RRLL RRL_
+8 LLRR 16 LLRR LLR_ 8 LRLR 16 LLRR LLR_
+8 RLRR 16 LLRR LLR_ 8 LRLL 16 RRLL RRL_
+8 RLLR 16 LLRR LLR_ 8 LRRL 16 RRLL RRL_
+8 RRLR 16 LLRR LLR_ 8 LLRL 16 RRLL RRL_
+8 RRRL 16 RRLL RRL_ 8 RRRL 16 RRLL RRL_
+8 LLLR 16 LLRR LLR_ 8 LLLR 16 LLRR LLR_
+8 RRRR 16 LLRR LLR_ 8 LLLL 16 LLRR LLR_
+---
+title: Stick Control: Page 12 - Short Roll Combinations (Closed Rolls)
+time: 2/2
+# 1-12: nine stroke closed rolls, each tied to the next stroke. 13-24: seven stroke closed rolls, the last stroke is the release.
+8 RLRL zRzLzRzL RLRL zRzLzRzL
+8 LRLR zLzRzLzR LRLR zLzRzLzR
+8 RRLL zRzLzRzL RRLL zRzLzRzL
+8 LLRR zLzRzLzR LLRR zLzRzLzR
+8 RLRR zLzRzLzR LRLL zRzLzRzL
+8 RLLR zLzRzLzR LRRL zRzLzRzL
+8 RRLR zLzRzLzR LLRL zRzLzRzL
+8 RRRL zRzLzRzL RRRL zRzLzRzL
+8 LLLR zLzRzLzR LLLR zLzRzLzR
+8 RLLL zRzLzRzL RLLL zRzLzRzL
+8 LRRR zLzRzLzR LRRR zLzRzLzR
+8 RRRR zLzRzLzR LLLL zRzLzRzL
+8 RLRL zRzLzRL RLRL zRzLzRL
+8 LRLR zLzRzLR LRLR zLzRzLR
+8 RRLL zRzLzRL RRLL zRzLzRL
+8 LLRR zLzRzLR LLRR zLzRzLR
+8 RLRR zLzRzLR LRLL zRzLzRL
+8 RLLR zLzRzLR LRRL zRzLzRL
+8 RRLR zLzRzLR LLRL zRzLzRL
+8 RRRL zRzLzRL RRRL zRzLzRL
+8 LLLR zLzRzLR LLLR zLzRzLR
+8 RLLL zRzLzRL RLLL zRzLzRL
+8 LRRR zLzRzLR LRRR zLzRzLR
+8 RRRR zLzRzLR LLLL zRzLzRL
+---
+title: Stick Control: Page 13 - Review of Short Roll Combinations
+time: 2/2
+# 9-10: nine stroke closed rolls, tied to the next stroke. 11-12: seven stroke closed rolls, the last stroke is the release.
+8 RLRL 16 RLRL RLRL 8 RLRL 16 RLRL RLRL 8 RLRL 16 RLRL RLRL RLRL RLRL RLRL RLRL
+8 LRLR 16 LRLR LRLR 8 LRLR 16 LRLR LRLR 8 LRLR 16 LRLR LRLR LRLR LRLR LRLR LRLR
+8 RLRL 16 RLRL RLR_ 8 RLRL 16 RLRL RLR_ 8 RLRL 16 RLRL RLR_ RLRL RLR_ RLRL RLR_
+8 LRLR 16 LRLR LRL_ 8 LRLR 16 LRLR LRL_ 8 LRLR 16 LRLR LRL_ LRLR LRL_ LRLR LRL_
+8 RLRL 16 RRLL RRLL 8 RLRL 16 RRLL RRLL 8 RLRL 16 RRLL RRLL RRLL RRLL RRLL RRLL
+8 LRLR 16 LLRR LLRR 8 LRLR 16 LLRR LLRR 8 LRLR 16 LLRR LLRR LLRR LLRR LLRR LLRR
+8 RLRL 16 RRLL RRL_ 8 RLRL 16 RRLL RRL_ 8 RLRL 16 RRLL RRL_ RRLL RRL_ RRLL RRL_
+8 LRLR 16 LLRR LLR_ 8 LRLR 16 LLRR LLR_ 8 LRLR 16 LLRR LLR_ LLRR LLR_ LLRR LLR_
+8 RLRL zRzLzRzL 8 RLRL zRzLzRzL 8 RLRL zRzLzRzL zRzLzRzL zRzLzRzL
+8 LRLR zLzRzLzR 8 LRLR zLzRzLzR 8 LRLR zLzRzLzR zLzRzLzR zLzRzLzR
+8 RLRL zRzLzRL 8 RLRL zRzLzRL 8 RLRL zRzLzRL zRzLzRL zRzLzRL
+8 LRLR zLzRzLR 8 LRLR zLzRzLR 8 LRLR zLzRzLR zLzRzLR zLzRzLR
+---
+title: Stick Control: Page 14 - Short Rolls and Triplets
+time: 2/2
+# 9-10 and 21-22: nine stroke closed rolls, tied to the next stroke. 11-12 and 23-24: seven stroke closed rolls, the last stroke is the release.
+8 RLRL 16 RLRL RLRL 8 RLRL 8t RLR LRL
+8 LRLR 16 LRLR LRLR 8 LRLR 8t LRL RLR
+8 RLRL 16 RLRL RLR_ 8 RLRL 8t RLR LRL
+8 LRLR 16 LRLR LRL_ 8 LRLR 8t LRL RLR
+8 RLRL 16 RRLL RRLL 8 RLRL 8t RLR LRL
+8 LRLR 16 LLRR LLRR 8 LRLR 8t LRL RLR
+8 RLRL 16 RRLL RRL_ 8 RLRL 8t RLR LRL
+8 LRLR 16 LLRR LLR_ 8 LRLR 8t LRL RLR
+8 RLRL zRzLzRzL 8 RLRL 8t RLR LRL
+8 LRLR zLzRzLzR 8 LRLR 8t LRL RLR
+8 RLRL zRzLzRL 8 RLRL 8t RLR LRL
+8 LRLR zLzRzLR 8 LRLR 8t LRL RLR
+8 RRLL 16 RLRL RLRL 8 RRLL 8t RRL RRL
+8 LLRR 16 LRLR LRLR 8 LLRR 8t LLR LLR
+8 RRLL 16 RLRL RLR_ 8 RRLL 8t RRL RRL
+8 LLRR 16 LRLR LRL_ 8 LLRR 8t LLR LLR
+8 RRLL 16 RRLL RRLL 8 RRLL 8t RRL RRL
+8 LLRR 16 LLRR LLRR 8 LLRR 8t LLR LLR
+8 RRLL 16 RRLL RRL_ 8 RRLL 8t RRL RRL
+8 LLRR 16 LLRR LLR_ 8 LLRR 8t LLR LLR
+8 RRLL zRzLzRzL 8 RRLL 8t RRL RRL
+8 LLRR zLzRzLzR 8 LLRR 8t LLR LLR
+8 RRLL zRzLzRL 8 RRLL 8t RRL RRL
+8 LLRR zLzRzLR 8 LLRR 8t LLR LLR
+---
+title: Stick Control: Page 15 - Short Rolls and Triplets
+time: 2/2
+# 9-10 and 21-22: nine stroke closed rolls, tied to the next stroke. 11-12 and 23-24: seven stroke closed rolls, the last stroke is the release.
+8 RLRR 16 LRLR LRLR 8 LRLL 8t RLR LRL
+8 LRLL 16 RLRL RLRL 8 RLRR 8t LRL RLR
+8 RLRR 16 LRLR LRL_ 8 LRLL 8t RLR LRL
+8 LRLL 16 RLRL RLR_ 8 RLRR 8t LRL RLR
+8 RLRR 16 LLRR LLRR 8 LRLL 8t RLR LRL
+8 LRLL 16 RRLL RRLL 8 RLRR 8t LRL RLR
+8 RLRR 16 LLRR LLR_ 8 LRLL 8t RLR LRL
+8 LRLL 16 RRLL RRL_ 8 RLRR 8t LRL RLR
+8 RLRR zLzRzLzR 8 LRLL 8t RLR LRL
+8 LRLL zRzLzRzL 8 RLRR 8t LRL RLR
+8 RLRR zLzRzLR 8 LRLL 8t RLR LRL
+8 LRLL zRzLzRL 8 RLRR 8t LRL RLR
+8 RLLR 16 LRLR LRLR 8 LRRL 8t RRL RRL
+8 LRRL 16 RLRL RLRL 8 RLLR 8t LLR LLR
+8 RLLR 16 LRLR LRL_ 8 LRRL 8t RRL RRL
+8 LRRL 16 RLRL RLR_ 8 RLLR 8t LLR LLR
+8 RLLR 16 LLRR LLRR 8 LRRL 8t RRL RRL
+8 LRRL 16 RRLL RRLL 8 RLLR 8t LLR LLR
+8 RLLR 16 LLRR LLR_ 8 LRRL 8t RRL RRL
+8 LRRL 16 RRLL RRL_ 8 RLLR 8t LLR LLR
+8 RLLR zLzRzLzR 8 LRRL 8t RRL RRL
+8 LRRL zRzLzRzL 8 RLLR 8t LLR LLR
+8 RLLR zLzRzLR 8 LRRL 8t RRL RRL
+8 LRRL zRzLzRL 8 RLLR 8t LLR LLR
+---
+title: Stick Control: Page 16 - Flam Beats
+time: 2/4
+# fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+8 fR 16 LL 8 fR 16 LL 8 fR 16 LL 8 fR 16 LL
+8 fL 16 RR 8 fL 16 RR 8 fL 16 RR 8 fL 16 RR
+8 fR 16 RR 8 fL 16 LL 8 fR 16 RR 8 fL 16 LL
+8 fR 16 LR 8 fL 16 RL 8 fR 16 LR 8 fL 16 RL
+8 fR 16 RL 8 fR 16 RL 8 fR 16 RL 8 fR 16 RL
+8 fL 16 LR 8 fL 16 LR 8 fL 16 LR 8 fL 16 LR
+8 fR 16 RL 8 fL 16 LR 8 fR 16 RL 8 fL 16 LR
+16 fRLRL 16 fRLRL 16 fRLRL 16 fRLRL
+16 fLRLR 16 fLRLR 16 fLRLR 16 fLRLR
+16 fRLRR 16 fLRLL 16 fRLRR 16 fLRLL
+16 fRRfLL 16 fRRfLL 16 fRRfLL 16 fRRfLL
+16 fRLRL 16 fLRLR 16 fRLRL 16 fLRLR
+16 fRRLL 16 fRRLL 16 fRRLL 16 fRRLL
+16 fLLRR 16 fLLRR 16 fLLRR 16 fLLRR
+16 fRRLR 16 fLLRL 16 fRRLR 16 fLLRL
+16 fRRLL 16 fLLRR 16 fRRLL 16 fLLRR
+16 fRLLR 16 fLRRL 16 fRLLR 16 fLRRL
+16 fRRRR 16 fLLLL 16 fRRRR 16 fLLLL
+8 fR 16 LL 8 fR 16 LL 8 fR 16 RR 8 fL 16 LL
+8 fR 16 LL 8 fR 16 LL 8 fR 16 LR 8 fL 16 RL
+8 fR 16 LL 8 fR 16 LL 8 fR 16 RL 8 fR 16 RL
+8 fR 16 LL 8 fR 16 LL 8 fR 16 RL 8 fL 16 LR
+8 fR 16 LL 8 fR 16 LL 16 fRLRL 16 fRLRL
+8 fR 16 LL 8 fR 16 LL 16 fRLRR 16 fLRLL
+---
+title: Stick Control: Page 17 - Flam Beats
+time: 2/4
+# Exercises 25-48. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+8 fR 16 LL 8 fR 16 LL 16 fRRfLL 16 fRRfLL
+8 fR 16 LL 8 fR 16 LL 16 fRLRL 16 fLRLR
+8 fR 16 LL 8 fR 16 LL 16 fRRLL 16 fRRLL
+8 fR 16 LL 8 fR 16 LL 16 fRRLR 16 fLLRL
+8 fR 16 LL 8 fR 16 LL 16 fRRLL 16 fLLRR
+8 fR 16 LL 8 fR 16 LL 16 fRLLR 16 fLRRL
+8 fR 16 LL 8 fR 16 LL 16 fRRRR 16 fLLLL
+8 fR 16 RR 8 fL 16 LL 8 fR 16 LR 8 fL 16 RL
+8 fR 16 RR 8 fL 16 LL 8 fR 16 RL 8 fR 16 RL
+8 fR 16 RR 8 fL 16 LL 8 fR 16 RL 8 fL 16 LR
+8 fR 16 RR 8 fL 16 LL 16 fRLRL 16 fRLRL
+8 fR 16 RR 8 fL 16 LL 16 fRLRR 16 fLRLL
+8 fR 16 RR 8 fL 16 LL 16 fRRfLL 16 fRRfLL
+8 fR 16 RR 8 fL 16 LL 16 fRLRL 16 fLRLR
+8 fR 16 RR 8 fL 16 LL 16 fRRLL 16 fRRLL
+8 fR 16 RR 8 fL 16 LL 16 fRRLR 16 fLLRL
+8 fR 16 RR 8 fL 16 LL 16 fRRLL 16 fLLRR
+8 fR 16 RR 8 fL 16 LL 16 fRLLR 16 fLRRL
+8 fR 16 RR 8 fL 16 LL 16 fRRRR 16 fLLLL
+8 fR 16 LR 8 fL 16 RL 8 fR 16 RL 8 fR 16 RL
+8 fR 16 LR 8 fL 16 RL 8 fR 16 RL 8 fL 16 LR
+8 fR 16 LR 8 fL 16 RL 16 fRLRL 16 fRLRL
+8 fR 16 LR 8 fL 16 RL 16 fRLRR 16 fLRLL
+8 fR 16 LR 8 fL 16 RL 16 fRRfLL 16 fRRfLL
+---
+title: Stick Control: Page 18 - Flam Beats
+time: 2/4
+# Exercises 49-72. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+8 fR 16 LR 8 fL 16 RL 16 fRLRL 16 fLRLR
+8 fR 16 LR 8 fL 16 RL 16 fRRLL 16 fRRLL
+8 fR 16 LR 8 fL 16 RL 16 fRRLR 16 fLLRL
+8 fR 16 LR 8 fL 16 RL 16 fRRLL 16 fLLRR
+8 fR 16 LR 8 fL 16 RL 16 fRLLR 16 fLRRL
+8 fR 16 LR 8 fL 16 RL 16 fRRRR 16 fLLLL
+8 fR 16 RL 8 fR 16 RL 8 fR 16 RL 8 fL 16 LR
+8 fR 16 RL 8 fR 16 RL 16 fRLRL 16 fRLRL
+8 fR 16 RL 8 fR 16 RL 16 fRLRR 16 fLRLL
+8 fR 16 RL 8 fR 16 RL 16 fRRfLL 16 fRRfLL
+8 fR 16 RL 8 fR 16 RL 16 fRLRL 16 fLRLR
+8 fR 16 RL 8 fR 16 RL 16 fRRLL 16 fRRLL
+8 fR 16 RL 8 fR 16 RL 16 fRRLR 16 fLLRL
+8 fR 16 RL 8 fR 16 RL 16 fRRLL 16 fLLRR
+8 fR 16 RL 8 fR 16 RL 16 fRLLR 16 fLRRL
+8 fR 16 RL 8 fR 16 RL 16 fRRRR 16 fLLLL
+8 fR 16 RL 8 fL 16 LR 16 fRLRL 16 fRLRL
+8 fR 16 RL 8 fL 16 LR 16 fRLRR 16 fLRLL
+8 fR 16 RL 8 fL 16 LR 16 fRRfLL 16 fRRfLL
+8 fR 16 RL 8 fL 16 LR 16 fRLRL 16 fLRLR
+8 fR 16 RL 8 fL 16 LR 16 fRRLL 16 fRRLL
+8 fR 16 RL 8 fL 16 LR 16 fRRLR 16 fLLRL
+8 fR 16 RL 8 fL 16 LR 16 fRRLL 16 fLLRR
+8 fR 16 RL 8 fL 16 LR 16 fRLLR 16 fLRRL
+---
+title: Stick Control: Page 19 - Flam Beats
+time: 2/4
+# Exercises 73-96. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+8 fR 16 RL 8 fL 16 LR 16 fRRRR 16 fLLLL
+8 fL 16 RR 8 fL 16 RR 8 fL 16 LL 8 fR 16 RR
+8 fL 16 RR 8 fL 16 RR 8 fL 16 RL 8 fR 16 LR
+8 fL 16 RR 8 fL 16 RR 8 fL 16 LR 8 fL 16 LR
+8 fL 16 RR 8 fL 16 RR 8 fL 16 LR 8 fR 16 RL
+8 fL 16 RR 8 fL 16 RR 16 fLRLR 16 fLRLR
+8 fL 16 RR 8 fL 16 RR 16 fLRLL 16 fRLRR
+8 fL 16 RR 8 fL 16 RR 16 fLLfRR 16 fLLfRR
+8 fL 16 RR 8 fL 16 RR 16 fLRLR 16 fRLRL
+8 fL 16 RR 8 fL 16 RR 16 fLLRR 16 fLLRR
+8 fL 16 RR 8 fL 16 RR 16 fLLRL 16 fRRLR
+8 fL 16 RR 8 fL 16 RR 16 fLLRR 16 fRRLL
+8 fL 16 RR 8 fL 16 RR 16 fLRRL 16 fRLLR
+8 fL 16 RR 8 fL 16 RR 16 fLLLL 16 fRRRR
+8 fL 16 LL 8 fR 16 RR 8 fL 16 RL 8 fR 16 LR
+8 fL 16 LL 8 fR 16 RR 8 fL 16 LR 8 fL 16 LR
+8 fL 16 LL 8 fR 16 RR 8 fL 16 LR 8 fR 16 RL
+8 fL 16 LL 8 fR 16 RR 16 fLRLR 16 fLRLR
+8 fL 16 LL 8 fR 16 RR 16 fLRLL 16 fRLRR
+8 fL 16 LL 8 fR 16 RR 16 fLLfRR 16 fLLfRR
+8 fL 16 LL 8 fR 16 RR 16 fLRLR 16 fRLRL
+8 fL 16 LL 8 fR 16 RR 16 fLLRR 16 fLLRR
+8 fL 16 LL 8 fR 16 RR 16 fLLRL 16 fRRLR
+8 fL 16 LL 8 fR 16 RR 16 fLLRR 16 fRRLL
+---
+title: Stick Control: Page 20 - Flam Beats
+time: 2/4
+# Exercises 97-120. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+8 fL 16 LL 8 fR 16 RR 16 fLRRL 16 fRLLR
+8 fL 16 LL 8 fR 16 RR 16 fLLLL 16 fRRRR
+8 fL 16 RL 8 fR 16 LR 8 fL 16 LR 8 fL 16 LR
+8 fL 16 RL 8 fR 16 LR 8 fL 16 LR 8 fR 16 RL
+8 fL 16 RL 8 fR 16 LR 16 fLRLR 16 fLRLR
+8 fL 16 RL 8 fR 16 LR 16 fLRLL 16 fRLRR
+8 fL 16 RL 8 fR 16 LR 16 fLLfRR 16 fLLfRR
+8 fL 16 RL 8 fR 16 LR 16 fLRLR 16 fRLRL
+8 fL 16 RL 8 fR 16 LR 16 fLLRR 16 fLLRR
+8 fL 16 RL 8 fR 16 LR 16 fLLRL 16 fRRLR
+8 fL 16 RL 8 fR 16 LR 16 fLLRR 16 fRRLL
+8 fL 16 RL 8 fR 16 LR 16 fLRRL 16 fRLLR
+8 fL 16 RL 8 fR 16 LR 16 fLLLL 16 fRRRR
+8 fL 16 LR 8 fL 16 LR 8 fL 16 LR 8 fR 16 RL
+8 fL 16 LR 8 fL 16 LR 16 fLRLR 16 fLRLR
+8 fL 16 LR 8 fL 16 LR 16 fLRLL 16 fRLRR
+8 fL 16 LR 8 fL 16 LR 16 fLLfRR 16 fLLfRR
+8 fL 16 LR 8 fL 16 LR 16 fLRLR 16 fRLRL
+8 fL 16 LR 8 fL 16 LR 16 fLLRR 16 fLLRR
+8 fL 16 LR 8 fL 16 LR 16 fLLRL 16 fRRLR
+8 fL 16 LR 8 fL 16 LR 16 fLLRR 16 fRRLL
+8 fL 16 LR 8 fL 16 LR 16 fLRRL 16 fRLLR
+8 fL 16 LR 8 fL 16 LR 16 fLLLL 16 fRRRR
+8 fL 16 LR 8 fR 16 RL 16 fLRLR 16 fLRLR
+---
+title: Stick Control: Page 21 - Flam Beats
+time: 2/4
+# Exercises 121-144. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+8 fL 16 LR 8 fR 16 RL 16 fLRLL 16 fRLRR
+8 fL 16 LR 8 fR 16 RL 16 fLLfRR 16 fLLfRR
+8 fL 16 LR 8 fR 16 RL 16 fLRLR 16 fRLRL
+8 fL 16 LR 8 fR 16 RL 16 fLLRR 16 fLLRR
+8 fL 16 LR 8 fR 16 RL 16 fLLRL 16 fRRLR
+8 fL 16 LR 8 fR 16 RL 16 fLLRR 16 fRRLL
+8 fL 16 LR 8 fR 16 RL 16 fLRRL 16 fRLLR
+8 fL 16 LR 8 fR 16 RL 16 fLLLL 16 fRRRR
+16 fRLRL fRLRL fRLRR fLRLL
+16 fRLRL fRLRL fRRfLL fRRfLL
+16 fRLRL fRLRL fRLRL fLRLR
+16 fRLRL fRLRL fRRLL fRRLL
+16 fRLRL fRLRL fRRLR fLLRL
+16 fRLRL fRLRL fRRLL fLLRR
+16 fRLRL fRLRL fRLLR fLRRL
+16 fRLRL fRLRL fRRRR fLLLL
+16 fRLRR fLRLL fRRfLL fRRfLL
+16 fRLRR fLRLL fRLRL fLRLR
+16 fRLRR fLRLL fRRLL fRRLL
+16 fRLRR fLRLL fRRLR fLLRL
+16 fRLRR fLRLL fRRLL fLLRR
+16 fRLRR fLRLL fRLLR fLRRL
+16 fRLRR fLRLL fRRRR fLLLL
+16 fRRfLL fRRfLL fRLRL fLRLR
+---
+title: Stick Control: Page 22 - Flam Beats
+time: 2/4
+# Exercises 145-168. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+16 fRRfLL fRRfLL fRRLL fRRLL
+16 fRRfLL fRRfLL fRRLR fLLRL
+16 fRRfLL fRRfLL fRRLL fLLRR
+16 fRRfLL fRRfLL fRLLR fLRRL
+16 fRRfLL fRRfLL fRRRR fLLLL
+16 fRLRL fLRLR fRRLL fRRLL
+16 fRLRL fLRLR fRRLR fLLRL
+16 fRLRL fLRLR fRRLL fLLRR
+16 fRLRL fLRLR fRLLR fLRRL
+16 fRLRL fLRLR fRRRR fLLLL
+16 fRRLL fRRLL fRRLR fLLRL
+16 fRRLL fRRLL fRRLL fLLRR
+16 fRRLL fRRLL fRLLR fLRRL
+16 fRRLL fRRLL fRRRR fLLLL
+16 fRRLR fLLRL fRRLL fLLRR
+16 fRRLR fLLRL fRLLR fLRRL
+16 fRRLR fLLRL fRRRR fLLLL
+16 fRRLL fLLRR fRLLR fLRRL
+16 fRRLL fLLRR fRRRR fLLLL
+16 fRLLR fLRRL fRRRR fLLLL
+16 fLRLR fLRLR fLRLL fRLRR
+16 fLRLR fLRLR fLLfRR fLLfRR
+16 fLRLR fLRLR fLRLR fRLRL
+16 fLRLR fLRLR fLLRR fLLRR
+---
+title: Stick Control: Page 23 - Flam Beats
+time: 2/4
+# Exercises 169-192. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+16 fLRLR fLRLR fLLRL fRRLR
+16 fLRLR fLRLR fLLRR fRRLL
+16 fLRLR fLRLR fLRRL fRLLR
+16 fLRLR fLRLR fLLLL fRRRR
+16 fLRLL fRLRR fLLfRR fLLfRR
+16 fLRLL fRLRR fLRLR fRLRL
+16 fLRLL fRLRR fLLRR fLLRR
+16 fLRLL fRLRR fLLRL fRRLR
+16 fLRLL fRLRR fLLRR fRRLL
+16 fLRLL fRLRR fLRRL fRLLR
+16 fLRLL fRLRR fLLLL fRRRR
+16 fLLfRR fLLfRR fLRLR fRLRL
+16 fLLfRR fLLfRR fLLRR fLLRR
+16 fLLfRR fLLfRR fLLRL fRRLR
+16 fLLfRR fLLfRR fLLRR fRRLL
+16 fLLfRR fLLfRR fLRRL fRLLR
+16 fLLfRR fLLfRR fLLLL fRRRR
+16 fLRLR fRLRL fLLRR fLLRR
+16 fLRLR fRLRL fLLRL fRRLR
+16 fLRLR fRLRL fLLRR fRRLL
+16 fLRLR fRLRL fLRRL fRLLR
+16 fLRLR fRLRL fLLLL fRRRR
+16 fLLRR fLLRR fLLRL fRRLR
+16 fLLRR fLLRR fLLRR fRRLL
+---
+title: Stick Control: Page 24 - Short Rolls in 6/8
+time: 6/8
+# Lines 1-12 are single strokes; lines 13-24 are open rolls (seven stroke in 13-18, five stroke in 19-24). The book says to repeat each exercise 20 times.
+8 RLR 16 LRLRLR 8 LRL 16 RLRLRL
+8 RRL 16 RLRLRL 8 RRL 16 RLRLRL
+8 LLR 16 LRLRLR 8 LLR 16 LRLRLR
+8 RLL 16 RLRLRL 8 RLL 16 RLRLRL
+8 LRR 16 LRLRLR 8 LRR 16 LRLRLR
+8 RRR 16 LRLRLR 8 LLL 16 RLRLRL
+8 RLR 16 LRLRL_ 8 RLR 16 LRLRL_
+8 LRL 16 RLRLR_ 8 LRL 16 RLRLR_
+8 RRL 16 RLRLR_ 8 LLR 16 LRLRL_
+8 RLL 16 RLRLR_ 8 LRR 16 LRLRL_
+8 RRR 16 LRLRL_ 8 RRR 16 LRLRL_
+8 LLL 16 RLRLR_ 8 LLL 16 RLRLR_
+8 RLR 16 LLRRLL 8 RLR 16 LLRRLL
+8 LRL 16 RRLLRR 8 LRL 16 RRLLRR
+8 RRL 16 RRLLRR 8 LLR 16 LLRRLL
+8 RLL 16 RRLLRR 8 LRR 16 LLRRLL
+8 RRR 16 LLRRLL 8 RRR 16 LLRRLL
+8 LLL 16 RRLLRR 8 LLL 16 RRLLRR
+8 RLR 16 LLRRL_ 8 RLR 16 LLRRL_
+8 LRL 16 RRLLR_ 8 LRL 16 RRLLR_
+8 RRL 16 RRLLR_ 8 LLR 16 LLRRL_
+8 RLL 16 RRLLR_ 8 LRR 16 LLRRL_
+8 RRR 16 LLRRL_ 8 RRR 16 LLRRL_
+8 LLL 16 RRLLR_ 8 LLL 16 RRLLR_
+---
+title: Stick Control: Page 25 - Short Rolls in 6/8
+time: 6/8
+# Lines 1-6 are seven stroke closed rolls: three buzzes tied into the next downbeat, which is the release (the second roll of each line is tied over the repeat to its first stroke).
+# Lines 7-12 are five stroke closed rolls: two buzzes and a release.
+# Lines 13-24 play eight strokes in the time of six sixteenths (8:6; the book writes them as dotted thirty-seconds). In lines 19-24 the eighth is a rest.
+8 RLR zLzRzL RLR zLzRzL
+8 LRL zRzLzR LRL zRzLzR
+8 RRL zRzLzR LLR zLzRzL
+8 RLL zRzLzR LRR zLzRzL
+8 RRR zLzRzL RRR zLzRzL
+8 LLL zRzLzR LLL zRzLzR
+8 RLR zLzRL RLR zLzRL
+8 LRL zRzLR LRL zRzLR
+8 RRL zRzLR LLR zLzRL
+8 RLL zRzLR LRR zLzRL
+8 RRR zLzRL RRR zLzRL
+8 LLL zRzLR LLL zRzLR
+8 RLR 8:6 LRLRLRLR 8 LRL 8:6 RLRLRLRL
+8 RRL 8:6 RLRLRLRL 8 RRL 8:6 RLRLRLRL
+8 LLR 8:6 LRLRLRLR 8 LLR 8:6 LRLRLRLR
+8 RLL 8:6 RLRLRLRL 8 RLL 8:6 RLRLRLRL
+8 LRR 8:6 LRLRLRLR 8 LRR 8:6 LRLRLRLR
+8 RRR 8:6 LRLRLRLR 8 LLL 8:6 RLRLRLRL
+8 RLR 8:6 LRLRLRL_ 8 RLR 8:6 LRLRLRL_
+8 LRL 8:6 RLRLRLR_ 8 LRL 8:6 RLRLRLR_
+8 RRL 8:6 RLRLRLR_ 8 LLR 8:6 LRLRLRL_
+8 RLL 8:6 RLRLRLR_ 8 LRR 8:6 LRLRLRL_
+8 RRR 8:6 LRLRLRL_ 8 RRR 8:6 LRLRLRL_
+8 LLL 8:6 RLRLRLR_ 8 LLL 8:6 RLRLRLR_
+---
+title: Stick Control: Page 26 - Short Rolls in 6/8
+time: 6/8
+# Lines 1-6 are nine stroke open rolls and 7-12 seven stroke open rolls, eight notes in the time of six sixteenths (8:6; the book writes them as dotted thirty-seconds).
+# Lines 13-18 are nine stroke closed rolls: four buzzes over the dotted quarter (4:6), tied into the next downbeat, which is the release.
+# Lines 19-24 are seven stroke closed rolls: three buzzes and a release in the dotted quarter.
+8 RLR 8:6 LLRRLLRR 8 LRL 8:6 RRLLRRLL
+8 RRL 8:6 RRLLRRLL 8 RRL 8:6 RRLLRRLL
+8 LLR 8:6 LLRRLLRR 8 LLR 8:6 LLRRLLRR
+8 RLL 8:6 RRLLRRLL 8 RLL 8:6 RRLLRRLL
+8 LRR 8:6 LLRRLLRR 8 LRR 8:6 LLRRLLRR
+8 RRR 8:6 LLRRLLRR 8 LLL 8:6 RRLLRRLL
+8 RLR 8:6 LLRRLLR_ 8 LRL 8:6 RRLLRRL_
+8 RRL 8:6 RRLLRRL_ 8 RRL 8:6 RRLLRRL_
+8 LLR 8:6 LLRRLLR_ 8 LLR 8:6 LLRRLLR_
+8 RLL 8:6 RRLLRRL_ 8 RLL 8:6 RRLLRRL_
+8 LRR 8:6 LLRRLLR_ 8 LRR 8:6 LLRRLLR_
+8 RRR 8:6 LLRRLLR_ 8 LLL 8:6 RRLLRRL_
+8 RLR 4:6 zLzRzLzR 8 LRL 4:6 zRzLzRzL
+8 RRL 4:6 zRzLzRzL 8 RRL 4:6 zRzLzRzL
+8 LLR 4:6 zLzRzLzR 8 LLR 4:6 zLzRzLzR
+8 RLL 4:6 zRzLzRzL 8 RLL 4:6 zRzLzRzL
+8 LRR 4:6 zLzRzLzR 8 LRR 4:6 zLzRzLzR
+8 RRR 4:6 zLzRzLzR 8 LLL 4:6 zRzLzRzL
+8 RLR 4:6 zLzRzLR 8 LRL 4:6 zRzLzRL
+8 RRL 4:6 zRzLzRL 8 RRL 4:6 zRzLzRL
+8 LLR 4:6 zLzRzLR 8 LLR 4:6 zLzRzLR
+8 RLL 4:6 zRzLzRL 8 RLL 4:6 zRzLzRL
+8 LRR 4:6 zLzRzLR 8 LRR 4:6 zLzRzLR
+8 RRR 4:6 zLzRzLR 8 LLL 4:6 zRzLzRL
+---
+title: Stick Control: Page 27 - Short Rolls in 6/8
+time: 6/8
+# Lines 1-6 are eleven stroke open rolls and 7-12 nine stroke open rolls (with a sixteenth rest): ten notes in the time of the dotted quarter (10:6), as the book's footnote gives the precise notation.
+# Lines 13-18 are eleven stroke closed rolls: five buzzes over the dotted quarter (5:6), tied into the next downbeat, which is the release.
+# Lines 19-24 are nine stroke closed rolls: four buzzes and a release in the dotted quarter.
+8 RLR 10:6 LLRRLLRRLL 8 RLR 10:6 LLRRLLRRLL
+8 LRL 10:6 RRLLRRLLRR 8 LRL 10:6 RRLLRRLLRR
+8 RRL 10:6 RRLLRRLLRR 8 LLR 10:6 LLRRLLRRLL
+8 RLL 10:6 RRLLRRLLRR 8 LRR 10:6 LLRRLLRRLL
+8 RRR 10:6 LLRRLLRRLL 8 RRR 10:6 LLRRLLRRLL
+8 LLL 10:6 RRLLRRLLRR 8 LLL 10:6 RRLLRRLLRR
+8 RLR 10:6 LLRRLLRRL_ 8 RLR 10:6 LLRRLLRRL_
+8 LRL 10:6 RRLLRRLLR_ 8 LRL 10:6 RRLLRRLLR_
+8 RRL 10:6 RRLLRRLLR_ 8 LLR 10:6 LLRRLLRRL_
+8 RLL 10:6 RRLLRRLLR_ 8 LRR 10:6 LLRRLLRRL_
+8 RRR 10:6 LLRRLLRRL_ 8 RRR 10:6 LLRRLLRRL_
+8 LLL 10:6 RRLLRRLLR_ 8 LLL 10:6 RRLLRRLLR_
+8 RLR 5:6 zLzRzLzRzL 8 RLR 5:6 zLzRzLzRzL
+8 LRL 5:6 zRzLzRzLzR 8 LRL 5:6 zRzLzRzLzR
+8 RRL 5:6 zRzLzRzLzR 8 LLR 5:6 zLzRzLzRzL
+8 RLL 5:6 zRzLzRzLzR 8 LRR 5:6 zLzRzLzRzL
+8 RRR 5:6 zLzRzLzRzL 8 RRR 5:6 zLzRzLzRzL
+8 LLL 5:6 zRzLzRzLzR 8 LLL 5:6 zRzLzRzLzR
+8 RLR 5:6 zLzRzLzRL 8 RLR 5:6 zLzRzLzRL
+8 LRL 5:6 zRzLzRzLR 8 LRL 5:6 zRzLzRzLR
+8 RRL 5:6 zRzLzRzLR 8 LLR 5:6 zLzRzLzRL
+8 RLL 5:6 zRzLzRzLR 8 LRR 5:6 zLzRzLzRL
+8 RRR 5:6 zLzRzLzRL 8 RRR 5:6 zLzRzLzRL
+8 LLL 5:6 zRzLzRzLR 8 LLL 5:6 zRzLzRzLR
+---
+title: Stick Control: Page 28 - Review of Short Rolls in 6/8
+time: 6/8
+# Each exercise is four bars: two bars with a lead-in of three eighths, then two bars of rolls only.
+# Lines 1-2 are single strokes, 3-5 five stroke rolls in single strokes, 6-7 seven stroke open rolls, 8-10 five stroke open rolls.
+# Lines 11-12 are seven stroke closed rolls: three buzzes over each dotted quarter, every roll tied into the next.
+8 RLR 16 LRLRLR 8 LRL 16 RLRLRL 16 RLRLRL RLRLRL RLRLRL RLRLRL
+8 LRL 16 RLRLRL 8 RLR 16 LRLRLR 16 LRLRLR LRLRLR LRLRLR LRLRLR
+8 RLR 16 LRLRL_ 8 RLR 16 LRLRL_ 16 LRLRL_ LRLRL_ LRLRL_ LRLRL_
+8 LRL 16 RLRLR_ 8 LRL 16 RLRLR_ 16 RLRLR_ RLRLR_ RLRLR_ RLRLR_
+8 RLR 16 LRLRL_ 8 RLR 16 LRLRL_ 16 RLRLR_ LRLRL_ RLRLR_ LRLRL_
+8 RLR 16 LLRRLL 8 RLR 16 LLRRLL 16 RRLLRR LLRRLL RRLLRR LLRRLL
+8 LRL 16 RRLLRR 8 LRL 16 RRLLRR 16 LLRRLL RRLLRR LLRRLL RRLLRR
+8 RLR 16 LLRRL_ 8 RLR 16 LLRRL_ 16 LLRRL_ LLRRL_ LLRRL_ LLRRL_
+8 LRL 16 RRLLR_ 8 LRL 16 RRLLR_ 16 RRLLR_ RRLLR_ RRLLR_ RRLLR_
+8 RLR 16 LLRRL_ 8 RLR 16 LLRRL_ 16 RRLLR_ LLRRL_ RRLLR_ LLRRL_
+8 RLR zLzRzL RLR zLzRzL zRzLzR zLzRzL zRzLzR zLzRzL
+8 LRL zRzLzR LRL zRzLzR zLzRzL zRzLzR zLzRzL zRzLzR
+---
+title: Stick Control: Page 29 - Combinations in 3/8
+time: 3/8
+# Each bar is two pairs of sixteenths and a sixteenth triplet.
+# Lines 11-17 are seven stroke closed rolls: the triplet is three buzzes over the last eighth, tied into the next downbeat, which is the release.
+16 RL RL 16t RLR 16 LR LR 16t LRL
+16 RR LL 16t RLR 16 LL RR 16t LRL
+16 RL RR 16t LRL 16 RL RR 16t LRL
+16 LR LL 16t RLR 16 LR LL 16t RLR
+16 RL LR 16t LRL 16 RL LR 16t LRL
+16 LR RL 16t RLR 16 LR RL 16t RLR
+16 RL LL 16t RLR 16 LR RR 16t LRL
+16 RR RL 16t RLR 16 LL LR 16t LRL
+16 RR RR 16t LRL 16 RR RR 16t LRL
+16 LL LL 16t RLR 16 LL LL 16t RLR
+16 RL RL 16t zRzLzR 16 LR LR 16t zLzRzL
+16 RR LL 16t zRzLzR 16 LL RR 16t zLzRzL
+16 RL RR 16t zLzRzL 16 RL RR 16t zLzRzL
+16 LR LL 16t zRzLzR 16 LR LL 16t zRzLzR
+16 RL LR 16t zLzRzL 16 RL LR 16t zLzRzL
+16 LR RL 16t zRzLzR 16 LR RL 16t zRzLzR
+16 RL LL 16t zRzLzR 16 LR RR 16t zLzRzL
+16 RL RL 16t RRL 16 RL RL 16t RRL
+16 LR LR 16t LLR 16 LR LR 16t LLR
+16 RR LL 16t RRL 16 RR LL 16t RRL
+16 LL RR 16t LLR 16 LL RR 16t LLR
+16 RL RR 16t LLR 16 LR LL 16t RRL
+16 RL LR 16t LLR 16 LR RL 16t RRL
+16 RR RR 16t LLR 16 LL LL 16t RRL
+---
+title: Stick Control: Page 30 - Combinations in 3/8
+time: 3/8
+# The book numbers these 25-48, following on from page 29. Each bar is two pairs of sixteenths and four thirty-seconds.
+# In the book's 36-45 the last thirty-second is a rest; 46-48 are five stroke open rolls, released on the next downbeat.
+16 RL RL 32 RLRL 16 RL RL 32 RLRL
+16 LR LR 32 LRLR 16 LR LR 32 LRLR
+16 RR LL 32 RLRL 16 RR LL 32 RLRL
+16 LL RR 32 LRLR 16 LL RR 32 LRLR
+16 RL RR 32 LRLR 16 LR LL 32 RLRL
+16 RL LR 32 LRLR 16 LR RL 32 RLRL
+16 RL LL 32 RLRL 16 RL LL 32 RLRL
+16 LR RR 32 LRLR 16 LR RR 32 LRLR
+16 RR RL 32 RLRL 16 RR RL 32 RLRL
+16 LL LR 32 LRLR 16 LL LR 32 LRLR
+16 RR RR 32 LRLR 16 LL LL 32 RLRL
+16 RL RL 32 RLR_ 16 RL RL 32 RLR_
+16 LR LR 32 LRL_ 16 LR LR 32 LRL_
+16 RR LL 32 RLR_ 16 RR LL 32 RLR_
+16 LL RR 32 LRL_ 16 LL RR 32 LRL_
+16 RL RR 32 LRL_ 16 LR LL 32 RLR_
+16 RL LR 32 LRL_ 16 LR RL 32 RLR_
+16 RL LL 32 RLR_ 16 RL LL 32 RLR_
+16 LR RR 32 LRL_ 16 LR RR 32 LRL_
+16 RR RL 32 RLR_ 16 RR RL 32 RLR_
+16 LL LR 32 LRL_ 16 LL LR 32 LRL_
+16 RL RL 32 RRLL 16 RL RL 32 RRLL
+16 LR LR 32 LLRR 16 LR LR 32 LLRR
+16 RR LL 32 RRLL 16 RR LL 32 RRLL
+---
+title: Stick Control: Page 31 - Combinations in 3/8
+time: 3/8
+# The book numbers these 49-72. In its 49-55 the last eighth is a five stroke open roll in thirty-seconds; in 56-60 a three stroke open roll and a thirty-second rest.
+# In 61-66 it is a five stroke closed roll: two buzzed sixteenths tied into the next downbeat, which is the release.
+# In 67-72 it is a three stroke closed roll: a buzzed sixteenth and a release.
+16 LL RR 32 LLRR 16 LL RR 32 LLRR
+16 RL RR 32 LLRR 16 LR LL 32 RRLL
+16 RL LR 32 LLRR 16 LR RL 32 RRLL
+16 RL LL 32 RRLL 16 RL LL 32 RRLL
+16 LR RR 32 LLRR 16 LR RR 32 LLRR
+16 RR RL 32 RRLL 16 RR RL 32 RRLL
+16 LL LR 32 LLRR 16 LL LR 32 LLRR
+16 RL RL 32 RRL_ 16 RL RL 32 RRL_
+16 LR LR 32 LLR_ 16 LR LR 32 LLR_
+16 RR LL 32 RRL_ 16 RR LL 32 RRL_
+16 LL RR 32 LLR_ 16 LL RR 32 LLR_
+16 RL RR 32 LLR_ 16 LR LL 32 RRL_
+16 RL RL zRzL 16 RL RL zRzL
+16 LR LR zLzR 16 LR LR zLzR
+16 RR LL zRzL 16 RR LL zRzL
+16 LL RR zLzR 16 LL RR zLzR
+16 RL RR zLzR 16 LR LL zRzL
+16 RL LR zLzR 16 LR RL zRzL
+16 RL RL zRL 16 RL RL zRL
+16 LR LR zLR 16 LR LR zLR
+16 RR LL zRL 16 RR LL zRL
+16 LL RR zLR 16 LL RR zLR
+16 RL RR zLR 16 LR LL zRL
+16 RR RR zLR 16 LL LL zRL
+---
+title: Stick Control: Page 32 - Combinations in 2/4
+time: 2/4
+# Each beat is two sixteenths and a figure in the second eighth: a sixteenth triplet (lines 1-6), four thirty-seconds (7-9), three thirty-seconds and a rest (10-12),
+# a five stroke open roll (13-15), a three stroke open roll and a rest (16-18), a five stroke closed roll tied into the next beat (19-21), or a three stroke closed roll (22-24).
+16 RL 16t RLR 16 LR 16t LRL 16 RL 16t RLR 16 LR 16t LRL
+16 RR 16t LRL 16 RR 16t LRL 16 RR 16t LRL 16 RR 16t LRL
+16 LL 16t RLR 16 LL 16t RLR 16 LL 16t RLR 16 LL 16t RLR
+16 RL 16t RRL 16 RL 16t RRL 16 RL 16t RRL 16 RL 16t RRL
+16 LR 16t LLR 16 LR 16t LLR 16 LR 16t LLR 16 LR 16t LLR
+16 RR 16t LLR 16 LL 16t RRL 16 RR 16t LLR 16 LL 16t RRL
+16 RL 32 RLRL 16 RL 32 RLRL 16 RL 32 RLRL 16 RL 32 RLRL
+16 LR 32 LRLR 16 LR 32 LRLR 16 LR 32 LRLR 16 LR 32 LRLR
+16 RR 32 LRLR 16 LL 32 RLRL 16 RR 32 LRLR 16 LL 32 RLRL
+16 RL 32 RLR_ 16 RL 32 RLR_ 16 RL 32 RLR_ 16 RL 32 RLR_
+16 LR 32 LRL_ 16 LR 32 LRL_ 16 LR 32 LRL_ 16 LR 32 LRL_
+16 RR 32 LRL_ 16 LL 32 RLR_ 16 RR 32 LRL_ 16 LL 32 RLR_
+16 RL 32 RRLL 16 RL 32 RRLL 16 RL 32 RRLL 16 RL 32 RRLL
+16 LR 32 LLRR 16 LR 32 LLRR 16 LR 32 LLRR 16 LR 32 LLRR
+16 RR 32 LLRR 16 LL 32 RRLL 16 RR 32 LLRR 16 LL 32 RRLL
+16 RL 32 RRL_ 16 RL 32 RRL_ 16 RL 32 RRL_ 16 RL 32 RRL_
+16 LR 32 LLR_ 16 LR 32 LLR_ 16 LR 32 LLR_ 16 LR 32 LLR_
+16 RR 32 LLR_ 16 LL 32 RRL_ 16 RR 32 LLR_ 16 LL 32 RRL_
+16 RL zRzL 16 RL zRzL 16 RL zRzL 16 RL zRzL
+16 LR zLzR 16 LR zLzR 16 LR zLzR 16 LR zLzR
+16 RR zLzR 16 LL zRzL 16 RR zLzR 16 LL zRzL
+16 RL zRL 16 RL zRL 16 RL zRL 16 RL zRL
+16 LR zLR 16 LR zLR 16 LR zLR 16 LR zLR
+16 RR zLR 16 LL zRL 16 RR zLR 16 LL zRL
+---
+title: Stick Control: Page 33 - Flam Triplets and Dotted Notes
+time: 2/4
+# fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+# Lines 1-6 are eighth note triplets; 7-9 dotted eighths and sixteenths, played at their exact value (not as triplets); 10-12 eighths.
+# Lines 13-18 are four bars: two bars of flam triplets, then two bars of another figure.
+8t fRLR fLRL fRLR fLRL
+8t fRRL fRRL fRRL fRRL
+8t fRLL fRLL fRLL fRLL
+8t fLLR fLLR fLLR fLLR
+8t fLRR fLRR fLRR fLRR
+8t fRRR fLLL fRRR fLLL
+16 fR__R fL__L fR__R fL__L
+16 fR__L fR__L fR__L fR__L
+16 fL__R fL__R fL__R fL__R
+8 fRR fLL fRR fLL
+8 fRL fRL fRL fRL
+8 fLR fLR fLR fLR
+8t fRLR fLRL fRLR fLRL fRRL fRRL fRRL fRRL
+8t fRLR fLRL fRLR fLRL fRLL fRLL fRLL fRLL
+8t fRLR fLRL fRLR fLRL fRRR fLLL fRRR fLLL
+8t fRLR fLRL fRLR fLRL 16 fR__R fL__L fR__R fL__L
+8t fRLR fLRL fRLR fLRL 16 fR__L fR__L fR__L fR__L
+8t fRLR fLRL fRLR fLRL 8 fRR fLL fRR fLL
+---
+title: Stick Control: Page 34 - Flam Triplets and Dotted Notes
+time: 2/4
+# The book numbers these 19-30. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+# Each exercise is four bars: two bars of flam triplets, then two bars of another figure. Dotted eighths and sixteenths are played at their exact value.
+8t fRLR fLRL fRLR fLRL 8 fRL fRL fRL fRL
+8t fRRL fRRL fRRL fRRL 8t fRLL fRLL fRLL fRLL
+8t fRRL fRRL fRRL fRRL 8t fRRR fLLL fRRR fLLL
+8t fRRL fRRL fRRL fRRL 16 fR__R fL__L fR__R fL__L
+8t fRRL fRRL fRRL fRRL 16 fR__L fR__L fR__L fR__L
+8t fRRL fRRL fRRL fRRL 8 fRR fLL fRR fLL
+8t fRRL fRRL fRRL fRRL 8 fRL fRL fRL fRL
+8t fRLL fRLL fRLL fRLL 8t fRRR fLLL fRRR fLLL
+8t fRLL fRLL fRLL fRLL 16 fR__R fL__L fR__R fL__L
+8t fRLL fRLL fRLL fRLL 16 fR__L fR__L fR__L fR__L
+8t fRLL fRLL fRLL fRLL 8 fRR fLL fRR fLL
+8t fRLL fRLL fRLL fRLL 8 fRL fRL fRL fRL
+---
+title: Stick Control: Page 35 - Flam Triplets and Dotted Notes
+time: 2/4
+# The book numbers these 31-42. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+# Each exercise is four bars: two bars of flam triplets, then two bars of another figure. Dotted eighths and sixteenths are played at their exact value.
+8t fRRR fLLL fRRR fLLL 16 fR__R fL__L fR__R fL__L
+8t fRRR fLLL fRRR fLLL 16 fR__L fR__L fR__L fR__L
+8t fRRR fLLL fRRR fLLL 8 fRR fLL fRR fLL
+8t fRRR fLLL fRRR fLLL 8 fRL fRL fRL fRL
+8t fLRL fRLR fLRL fRLR 8t fLLR fLLR fLLR fLLR
+8t fLRL fRLR fLRL fRLR 8t fLRR fLRR fLRR fLRR
+8t fLRL fRLR fLRL fRLR 8t fLLL fRRR fLLL fRRR
+8t fLRL fRLR fLRL fRLR 16 fL__L fR__R fL__L fR__R
+8t fLRL fRLR fLRL fRLR 16 fL__R fL__R fL__R fL__R
+8t fLRL fRLR fLRL fRLR 8 fLL fRR fLL fRR
+8t fLRL fRLR fLRL fRLR 8 fLR fLR fLR fLR
+8t fLLR fLLR fLLR fLLR 8t fLRR fLRR fLRR fLRR
+---
+title: Stick Control: Page 36 - Flam Triplets and Dotted Notes
+time: 2/4
+# The book numbers these 43-54. fR is the book's F (right hand flam, left grace note), fL its circled F (left hand flam, right grace note).
+# Each exercise is four bars: two bars of flam triplets, then two bars of another figure. Dotted eighths and sixteenths are played at their exact value.
+8t fLLR fLLR fLLR fLLR 8t fLLL fRRR fLLL fRRR
+8t fLLR fLLR fLLR fLLR 16 fL__L fR__R fL__L fR__R
+8t fLLR fLLR fLLR fLLR 16 fL__R fL__R fL__R fL__R
+8t fLLR fLLR fLLR fLLR 8 fLL fRR fLL fRR
+8t fLLR fLLR fLLR fLLR 8 fLR fLR fLR fLR
+8t fLRR fLRR fLRR fLRR 8t fLLL fRRR fLLL fRRR
+8t fLRR fLRR fLRR fLRR 16 fL__L fR__R fL__L fR__R
+8t fLRR fLRR fLRR fLRR 16 fL__R fL__R fL__R fL__R
+8t fLRR fLRR fLRR fLRR 8 fLL fRR fLL fRR
+8t fLRR fLRR fLRR fLRR 8 fLR fLR fLR fLR
+8t fLLL fRRR fLLL fRRR 16 fL__L fR__R fL__L fR__R
+8t fLLL fRRR fLLL fRRR 16 fL__R fL__R fL__R fL__R
+---
+title: Stick Control: Page 37 - Short Roll Progressions
+time: 2/2
+# Cut time. Each bar is four eighths, then a half note's worth of: quarter note triplets (3:8, lines 1-8), a seven stroke open roll in sextuplet sixteenths (6:8, lines 9-12),
+# a five stroke open roll and a rest in sextuplet sixteenths (13-16), a seven stroke closed roll of three buzzes tied into the next downbeat (17-20), or a five stroke closed roll of two buzzes and a release (21-24).
+# In line 16 the book prints RRLL under the second roll; it is written RRLLR like the first.
+8 RLRL 3:8 RLR 8 LRLR 3:8 LRL
+8 RRLL 3:8 RLR 8 LLRR 3:8 LRL
+8 RLRR 3:8 LRL 8 RLRR 3:8 LRL
+8 LRLL 3:8 RLR 8 LRLL 3:8 RLR
+8 RLRL 3:8 RRL 8 RLRL 3:8 RRL
+8 LRLR 3:8 LLR 8 LRLR 3:8 LLR
+8 RRLL 3:8 RRL 8 RRLL 3:8 RRL
+8 LLRR 3:8 LLR 8 LLRR 3:8 LLR
+8 RLRL 6:8 RRLLRR 8 LRLR 6:8 LLRRLL
+8 RRLL 6:8 RRLLRR 8 LLRR 6:8 LLRRLL
+8 RLRR 6:8 LLRRLL 8 RLRR 6:8 LLRRLL
+8 LRLL 6:8 RRLLRR 8 LRLL 6:8 RRLLRR
+8 RLRL 6:8 RRLLR_ 8 LRLR 6:8 LLRRL_
+8 RRLL 6:8 RRLLR_ 8 LLRR 6:8 LLRRL_
+8 RLRR 6:8 LLRRL_ 8 RLRR 6:8 LLRRL_
+8 LRLL 6:8 RRLLR_ 8 LRLL 6:8 RRLLR_
+8 RLRL 3:8 zRzLzR 8 LRLR 3:8 zLzRzL
+8 RRLL 3:8 zRzLzR 8 LLRR 3:8 zLzRzL
+8 RLRR 3:8 zLzRzL 8 RLRR 3:8 zLzRzL
+8 LRLL 3:8 zRzLzR 8 LRLL 3:8 zRzLzR
+8 RLRL 3:8 zRzLR 8 LRLR 3:8 zLzRL
+8 RRLL 3:8 zRzLR 8 LLRR 3:8 zLzRL
+8 RLRR 3:8 zLzRL 8 RLRR 3:8 zLzRL
+8 LRLL 3:8 zRzLR 8 LRLL 3:8 zRzLR
+---
+title: Stick Control: Page 38 - Short Roll Progressions
+time: 2/2
+# Cut time. Each bar is four eighths, then a half note's worth of: eighth note quintuplets (5:8, lines 1-8), or an eleven stroke open roll in ten sixteenths (10:8, lines 9-12), released on the next downbeat.
+# Lines 13-16 are eleven stroke closed rolls tied into the next downbeat; 17-20 nine stroke closed rolls, not tied. The book prints six roll strokes under each half note, so these are six even
+# hand motions (6:8): all buzzes in 13-16, five buzzes and a release in 17-20.
+8 RLRL 5:8 RLRLR 8 LRLR 5:8 LRLRL
+8 RRLL 5:8 RLRLR 8 LLRR 5:8 LRLRL
+8 RLRR 5:8 LRLRL 8 RLRR 5:8 LRLRL
+8 LRLL 5:8 RLRLR 8 LRLL 5:8 RLRLR
+8 RLRL 5:8 RRLRL 8 RLRL 5:8 RRLRL
+8 LRLR 5:8 LLRLR 8 LRLR 5:8 LLRLR
+8 RLRR 5:8 LLRLR 8 LRLL 5:8 RRLRL
+8 RLRR 5:8 LLRRL 8 LRLL 5:8 RRLLR
+8 RLRL 10:8 RRLLRRLLRR 8 LRLR 10:8 LLRRLLRRLL
+8 RRLL 10:8 RRLLRRLLRR 8 LLRR 10:8 LLRRLLRRLL
+8 RLRR 10:8 LLRRLLRRLL 8 RLRR 10:8 LLRRLLRRLL
+8 LRLL 10:8 RRLLRRLLRR 8 LRLL 10:8 RRLLRRLLRR
+8 RLRL 6:8 zRzLzRzLzRzL 8 RLRL 6:8 zRzLzRzLzRzL
+8 LRLR 6:8 zLzRzLzRzLzR 8 LRLR 6:8 zLzRzLzRzLzR
+8 RRLL 6:8 zRzLzRzLzRzL 8 RRLL 6:8 zRzLzRzLzRzL
+8 RLRR 6:8 zLzRzLzRzLzR 8 LRLL 6:8 zRzLzRzLzRzL
+8 RLRL 6:8 zRzLzRzLzRL 8 RLRL 6:8 zRzLzRzLzRL
+8 LRLR 6:8 zLzRzLzRzLR 8 LRLR 6:8 zLzRzLzRzLR
+8 RRLL 6:8 zRzLzRzLzRL 8 RRLL 6:8 zRzLzRzLzRL
+8 RLRR 6:8 zLzRzLzRzLR 8 LRLL 6:8 zRzLzRzLzRL
+---
+title: Stick Control: Page 39 - Short Roll Progressions
+time: 2/2
+# Cut time. Each bar is four eighths, then a half note's worth of: eighth note sextuplets (6:8, lines 1-8), or a thirteen stroke open roll in twelve sixteenths (12:8, lines 9-12), released on the next downbeat.
+# Lines 13-16 are thirteen stroke closed rolls tied into the next downbeat (six buzzes); 17-20 eleven stroke closed rolls, not tied (five buzzes and a release).
+8 RLRL 6:8 RLRLRL 8 RLRL 6:8 RLRLRL
+8 LRLR 6:8 LRLRLR 8 LRLR 6:8 LRLRLR
+8 RRLL 6:8 RLRLRL 8 RRLL 6:8 RLRLRL
+8 RLRR 6:8 LRLRLR 8 LRLL 6:8 RLRLRL
+8 RLRL 6:8 RRLLRR 8 LRLR 6:8 LLRRLL
+8 RRLL 6:8 RRLLRR 8 LLRR 6:8 LLRRLL
+8 RLRR 6:8 LLRRLL 8 RLRR 6:8 LLRRLL
+8 LRLL 6:8 RRLLRR 8 LRLL 6:8 RRLLRR
+8 RLRL 12:8 RRLLRRLLRRLL 8 RLRL 12:8 RRLLRRLLRRLL
+8 LRLR 12:8 LLRRLLRRLLRR 8 LRLR 12:8 LLRRLLRRLLRR
+8 RRLL 12:8 RRLLRRLLRRLL 8 RRLL 12:8 RRLLRRLLRRLL
+8 RLRR 12:8 LLRRLLRRLLRR 8 LRLL 12:8 RRLLRRLLRRLL
+8 RLRL 6:8 zRzLzRzLzRzL 8 RLRL 6:8 zRzLzRzLzRzL
+8 LRLR 6:8 zLzRzLzRzLzR 8 LRLR 6:8 zLzRzLzRzLzR
+8 RRLL 6:8 zRzLzRzLzRzL 8 RRLL 6:8 zRzLzRzLzRzL
+8 RLRR 6:8 zLzRzLzRzLzR 8 LRLL 6:8 zRzLzRzLzRzL
+8 RLRL 6:8 zRzLzRzLzRL 8 RLRL 6:8 zRzLzRzLzRL
+8 LRLR 6:8 zLzRzLzRzLR 8 LRLR 6:8 zLzRzLzRzLR
+8 RRLL 6:8 zRzLzRzLzRL 8 RRLL 6:8 zRzLzRzLzRL
+8 RLRR 6:8 zLzRzLzRzLR 8 LRLL 6:8 zRzLzRzLzRL
+---
+title: Stick Control: Page 40 - Short Roll Progressions
+time: 2/2
+# Cut time. Each bar is four eighths, then a half note's worth of: sixteenth note septuplets (7:8, lines 1-8), or a fifteen stroke open roll in fourteen 32nds (14:8, lines 9-12), released on the next downbeat.
+# Lines 13-16 are fifteen stroke closed rolls tied into the next downbeat (seven buzzes); 17-20 thirteen stroke closed rolls, not tied (six buzzes and a release). The book prints seven letters under each roll.
+8 RLRL 7:8 RLRLRLR 8 LRLR 7:8 LRLRLRL
+8 RRLL 7:8 RLRLRLR 8 LLRR 7:8 LRLRLRL
+8 RLRR 7:8 LRLRLRL 8 RLRR 7:8 LRLRLRL
+8 LRLL 7:8 RLRLRLR 8 LRLL 7:8 RLRLRLR
+8 RLLR 7:8 LRLRLRL 8 RLLR 7:8 LRLRLRL
+8 LRRL 7:8 RLRLRLR 8 LRRL 7:8 RLRLRLR
+8 RLLL 7:8 RLRLRLR 8 LRRR 7:8 LRLRLRL
+8 RRRL 7:8 RLRLRLR 8 LLLR 7:8 LRLRLRL
+8 RLRL 14:8 RRLLRRLLRRLLRR 8 LRLR 14:8 LLRRLLRRLLRRLL
+8 RRLL 14:8 RRLLRRLLRRLLRR 8 LLRR 14:8 LLRRLLRRLLRRLL
+8 RLRR 14:8 LLRRLLRRLLRRLL 8 RLRR 14:8 LLRRLLRRLLRRLL
+8 LRLL 14:8 RRLLRRLLRRLLRR 8 LRLL 14:8 RRLLRRLLRRLLRR
+8 RLRL 7:8 zRzLzRzLzRzLzR 8 LRLR 7:8 zLzRzLzRzLzRzL
+8 RRLL 7:8 zRzLzRzLzRzLzR 8 LLRR 7:8 zLzRzLzRzLzRzL
+8 RLRR 7:8 zLzRzLzRzLzRzL 8 RLRR 7:8 zLzRzLzRzLzRzL
+8 LRLL 7:8 zRzLzRzLzRzLzR 8 LRLL 7:8 zRzLzRzLzRzLzR
+8 RLRL 7:8 zRzLzRzLzRzLR 8 LRLR 7:8 zLzRzLzRzLzRL
+8 RRLL 7:8 zRzLzRzLzRzLR 8 LLRR 7:8 zLzRzLzRzLzRL
+8 RLRR 7:8 zLzRzLzRzLzRL 8 RLRR 7:8 zLzRzLzRzLzRL
+8 LRLL 7:8 zRzLzRzLzRzLR 8 LRLL 7:8 zRzLzRzLzRzLR
+---
+title: Stick Control: Page 41 - Short Roll Progressions
+time: 2/2
+# Cut time. Lines 1-4: a nine stroke open roll (eight sixteenths, released on the quintuplet), then eighth note quintuplets (5:8). Lines 5-8: a seven stroke open roll, seven sixteenths and a sixteenth rest.
+# Lines 9-12: quintuplets, then a nine stroke closed roll on the half note, tied into the next downbeat; 13-16 a seven stroke closed roll, not tied. The book prints four letters under each roll, written as eighths.
+# Lines 17-24: the roll, then eighth note sextuplets (6:8), and a repeat bar. The book shows how the repeat starts (RR- or LL-); lines 19 and 23 start it on the other hand, so the second bar is mirrored.
+16 RRLLRRLL 5:8 RLRLR 16 LLRRLLRR 5:8 LRLRL
+16 RRLLRRLL 5:8 RRLLR 16 LLRRLLRR 5:8 LLRRL
+16 RRLLRRLL 5:8 RLRRL 16 RRLLRRLL 5:8 RLRRL
+16 LLRRLLRR 5:8 LRLLR 16 LLRRLLRR 5:8 LRLLR
+16 RRLLRRL_ 5:8 RLRLR 16 LLRRLLR_ 5:8 LRLRL
+16 RRLLRRL_ 5:8 RRLLR 16 LLRRLLR_ 5:8 LLRRL
+16 RRLLRRL_ 5:8 RLRRL 16 RRLLRRL_ 5:8 RLRRL
+16 LLRRLLR_ 5:8 LRLLR 16 LLRRLLR_ 5:8 LRLLR
+5:8 RLRLR 8 zLzRzLzR 5:8 LRLRL 8 zRzLzRzL
+5:8 RRLLR 8 zLzRzLzR 5:8 LLRRL 8 zRzLzRzL
+5:8 RLRRL 8 zRzLzRzL 5:8 RLRRL 8 zRzLzRzL
+5:8 LRLLR 8 zLzRzLzR 5:8 LRLLR 8 zLzRzLzR
+5:8 RLRLR 8 zLzRzLR 5:8 LRLRL 8 zRzLzRL
+5:8 RRLLR 8 zLzRzLR 5:8 LLRRL 8 zRzLzRL
+5:8 RLRRL 8 zRzLzRL 5:8 RLRRL 8 zRzLzRL
+5:8 LRLLR 8 zLzRzLR 5:8 LRLLR 8 zLzRzLR
+16 RRLLRRLL 6:8 RLRLRL 16 RRLLRRLL 6:8 RLRLRL
+16 LLRRLLRR 6:8 LRLRLR 16 LLRRLLRR 6:8 LRLRLR
+16 RRLLRRLL 6:8 RRLLRR 16 LLRRLLRR 6:8 LLRRLL
+16 RRLLRRLL 6:8 RRRLLL 16 RRLLRRLL 6:8 RRRLLL
+16 RRLLRRL_ 6:8 RLRLRL 16 RRLLRRL_ 6:8 RLRLRL
+16 LLRRLLR_ 6:8 LRLRLR 16 LLRRLLR_ 6:8 LRLRLR
+16 RRLLRRL_ 6:8 RRLLRR 16 LLRRLLR_ 6:8 LLRRLL
+16 RRLLRRL_ 6:8 RRRLLL 16 RRLLRRL_ 6:8 RRRLLL
+---
+title: Stick Control: Page 42 - Short Roll Progressions
+time: 2/2
+# Cut time. Lines 1-6: eighth note sextuplets (6:8), then a nine stroke closed roll on the half note, tied into the next downbeat; 7-12 a seven stroke closed roll, not tied. The book prints four letters under each roll, written as eighths.
+# Lines 13-18: a nine stroke open roll (eight sixteenths; 16-18 a seven stroke roll, seven sixteenths and a rest), then sixteenth note septuplets (7:8), and a repeat bar written out.
+# Lines 13 and 16 start the repeat on the other hand (LL-), so the second bar is mirrored. Lines 19-24: septuplets, then the closed roll, tied in 19-21 (nine stroke) and not tied in 22-24 (seven stroke).
+6:8 RLRLRL 8 zRzLzRzL 6:8 RLRLRL 8 zRzLzRzL
+6:8 LRLRLR 8 zLzRzLzR 6:8 LRLRLR 8 zLzRzLzR
+6:8 RRLLRR 8 zLzRzLzR 6:8 LLRRLL 8 zRzLzRzL
+6:8 RLRRLL 8 zRzLzRzL 6:8 RLRRLL 8 zRzLzRzL
+6:8 LRLLRR 8 zLzRzLzR 6:8 LRLLRR 8 zLzRzLzR
+6:8 RLLRRL 8 zRzLzRzL 6:8 RLLRRL 8 zRzLzRzL
+6:8 RLRLRL 8 zRzLzRL 6:8 RLRLRL 8 zRzLzRL
+6:8 LRLRLR 8 zLzRzLR 6:8 LRLRLR 8 zLzRzLR
+6:8 RRLLRR 8 zLzRzLR 6:8 LLRRLL 8 zRzLzRL
+6:8 RLRRLL 8 zRzLzRL 6:8 RLRRLL 8 zRzLzRL
+6:8 LRLLRR 8 zLzRzLR 6:8 LRLLRR 8 zLzRzLR
+6:8 RLLRRL 8 zRzLzRL 6:8 RLLRRL 8 zRzLzRL
+16 RRLLRRLL 7:8 RLRLRLR 16 LLRRLLRR 7:8 LRLRLRL
+16 RRLLRRLL 7:8 RRLLRRL 16 RRLLRRLL 7:8 RRLLRRL
+16 LLRRLLRR 7:8 LLRRLLR 16 LLRRLLRR 7:8 LLRRLLR
+16 RRLLRRL_ 7:8 RLRLRLR 16 LLRRLLR_ 7:8 LRLRLRL
+16 RRLLRRL_ 7:8 RRLLRRL 16 RRLLRRL_ 7:8 RRLLRRL
+16 LLRRLLR_ 7:8 LLRRLLR 16 LLRRLLR_ 7:8 LLRRLLR
+7:8 RLRLRLR 8 zLzRzLzR 7:8 LRLRLRL 8 zRzLzRzL
+7:8 RRLLRRL 8 zRzLzRzL 7:8 RRLLRRL 8 zRzLzRzL
+7:8 LLRRLLR 8 zLzRzLzR 7:8 LLRRLLR 8 zLzRzLzR
+7:8 RLRLRLR 8 zLzRzLR 7:8 LRLRLRL 8 zRzLzRL
+7:8 RRLLRRL 8 zRzLzRL 7:8 RRLLRRL 8 zRzLzRL
+7:8 LLRRLLR 8 zLzRzLR 7:8 LLRRLLR 8 zLzRzLR
+---
+title: Stick Control: Page 43 - Short Roll Progressions and Triplets
+time: 2/2
+# Cut time, four bars a line. Bars 1 and 3: four eighths and a half note's worth of a figure; bars 2 and 4: four eighths and two eighth note triplets (8t).
+# The figure is: quarter note triplets (3:8, lines 1-2); a seven stroke open roll in sextuplets (6:8, 3-4); a five stroke roll, five sextuplets and a rest (5-6);
+# a seven stroke closed roll tied into the next bar, three buzzes (7-8); a five stroke closed roll, not tied (9-10); quintuplets (5:8, 11-12).
+8 RLRL 3:8 RLR 8 LRLR 8t LRL RLR 8 LRLR 3:8 LRL 8 RLRL 8t RLR LRL
+8 RLRR 3:8 LRL 8 RLRR 8t LLR LLR 8 LRLL 3:8 RLR 8 LRLL 8t RRL RRL
+8 RLRL 6:8 RRLLRR 8 LRLR 8t LRL RLR 8 LRLR 6:8 LLRRLL 8 RLRL 8t RLR LRL
+8 RLRR 6:8 LLRRLL 8 RLRR 8t LLR LLR 8 LRLL 6:8 RRLLRR 8 LRLL 8t RRL RRL
+8 RLRL 6:8 RRLLR_ 8 LRLR 8t LRL RLR 8 LRLR 6:8 LLRRL_ 8 RLRL 8t RLR LRL
+8 RLRR 6:8 LLRRL_ 8 RLRR 8t LLR LLR 8 LRLL 6:8 RRLLR_ 8 LRLL 8t RRL RRL
+8 RLRL 3:8 zRzLzR 8 LRLR 8t LRL RLR 8 LRLR 3:8 zLzRzL 8 RLRL 8t RLR LRL
+8 RLRR 3:8 zLzRzL 8 RLRR 8t LLR LLR 8 LRLL 3:8 zRzLzR 8 LRLL 8t RRL RRL
+8 RLRL 3:8 zRzLR 8 LRLR 8t LRL RLR 8 LRLR 3:8 zLzRL 8 RLRL 8t RLR LRL
+8 RLRR 3:8 zLzRL 8 RLRR 8t LLR LLR 8 LRLL 3:8 zRzLR 8 LRLL 8t RRL RRL
+8 RLRL 5:8 RLRLR 8 LRLR 8t LRL RLR 8 LRLR 5:8 LRLRL 8 RLRL 8t RLR LRL
+8 RLRR 5:8 LRLRL 8 RLRR 8t LLR LLR 8 LRLL 5:8 RLRLR 8 LRLL 8t RRL RRL
+---
+title: Stick Control: Page 44 - Short Roll Progressions and Triplets
+time: 2/2
+# The book numbers these 13-24. Cut time, four bars a line: bars 2 and 4 are four eighths and two eighth note triplets (8t); bars 1 and 3 four eighths and a half note's worth of:
+# an eleven stroke open roll in ten sixteenths (10:8, lines 13-14); a nine stroke roll, nine of the ten and a rest (15-16); an eleven stroke closed roll tied into the next bar, five buzzes (17-18);
+# a nine stroke closed roll, not tied (19-20); a thirteen stroke roll in twelve sixteenths (12:8, 21-22); an eleven stroke roll, eleven of the twelve and a rest (23-24). In 21-24 every bar starts on the same hand.
+8 RLRL 10:8 RRLLRRLLRR 8 LRLR 8t LRL RLR 8 LRLR 10:8 LLRRLLRRLL 8 RLRL 8t RLR LRL
+8 RLRR 10:8 LLRRLLRRLL 8 RLRR 8t LLR LLR 8 LRLL 10:8 RRLLRRLLRR 8 LRLL 8t RRL RRL
+8 RLRL 10:8 RRLLRRLLR_ 8 LRLR 8t LRL RLR 8 LRLR 10:8 LLRRLLRRL_ 8 RLRL 8t RLR LRL
+8 RLRR 10:8 LLRRLLRRL_ 8 RLRR 8t LLR LLR 8 LRLL 10:8 RRLLRRLLR_ 8 LRLL 8t RRL RRL
+8 RLRL 5:8 zRzLzRzLzR 8 LRLR 8t LRL RLR 8 LRLR 5:8 zLzRzLzRzL 8 RLRL 8t RLR LRL
+8 RLRR 5:8 zLzRzLzRzL 8 RLRR 8t LLR LLR 8 LRLL 5:8 zRzLzRzLzR 8 LRLL 8t RRL RRL
+8 RLRL 5:8 zRzLzRzLR 8 LRLR 8t LRL RLR 8 LRLR 5:8 zLzRzLzRL 8 RLRL 8t RLR LRL
+8 RLRR 5:8 zLzRzLzRL 8 RLRR 8t LLR LLR 8 LRLL 5:8 zRzLzRzLR 8 LRLL 8t RRL RRL
+8 RLRL 12:8 RRLLRRLLRRLL 8 RLRL 8t RLR LRL 8 RLRL 12:8 RRLLRRLLRRLL 8 RLRL 8t RLR LRL
+8 LRLR 12:8 LLRRLLRRLLRR 8 LRLR 8t LRL RLR 8 LRLR 12:8 LLRRLLRRLLRR 8 LRLR 8t LRL RLR
+8 RLRL 12:8 RRLLRRLLRRL_ 8 RLRL 8t RLR LRL 8 RLRL 12:8 RRLLRRLLRRL_ 8 RLRL 8t RLR LRL
+8 LRLR 12:8 LLRRLLRRLLR_ 8 LRLR 8t LRL RLR 8 LRLR 12:8 LLRRLLRRLLR_ 8 LRLR 8t LRL RLR
+---
+title: Stick Control: Page 45 - Short Roll Progressions and Triplets
+time: 2/2
+# The book numbers these 25-36. Cut time, four bars a line: bars 2 and 4 are four eighths and two eighth note triplets (8t); bars 1 and 3 four eighths and a half note's worth of:
+# a thirteen stroke closed roll tied into the next bar, six buzzes (25-26); an eleven stroke closed roll, not tied (27-28); septuplets (7:8, 29); six septuplets and a rest (30);
+# a fifteen stroke open roll in fourteen 32nds (14:8, 31); a thirteen stroke roll, thirteen of the fourteen and a rest (32); a fifteen stroke closed roll tied, seven buzzes (33-34); a thirteen stroke closed roll, not tied (35-36).
+# In 25-28 every bar starts on the same hand.
+8 RLRL 6:8 zRzLzRzLzRzL 8 RLRL 8t RLR LRL 8 RLRL 6:8 zRzLzRzLzRzL 8 RLRL 8t RLR LRL
+8 LRLR 6:8 zLzRzLzRzLzR 8 LRLR 8t LRL RLR 8 LRLR 6:8 zLzRzLzRzLzR 8 LRLR 8t LRL RLR
+8 RLRL 6:8 zRzLzRzLzRL 8 RLRL 8t RLR LRL 8 RLRL 6:8 zRzLzRzLzRL 8 RLRL 8t RLR LRL
+8 LRLR 6:8 zLzRzLzRzLR 8 LRLR 8t LRL RLR 8 LRLR 6:8 zLzRzLzRzLR 8 LRLR 8t LRL RLR
+8 RLRL 7:8 RLRLRLR 8 LRLR 8t LRL RLR 8 LRLR 7:8 LRLRLRL 8 RLRL 8t RLR LRL
+8 RLRL 7:8 RLRLRL_ 8 LRLR 8t LRL RLR 8 LRLR 7:8 LRLRLR_ 8 RLRL 8t RLR LRL
+8 RLRL 14:8 RRLLRRLLRRLLRR 8 LRLR 8t LRL RLR 8 LRLR 14:8 LLRRLLRRLLRRLL 8 RLRL 8t RLR LRL
+8 RLRL 14:8 RRLLRRLLRRLLR_ 8 LRLR 8t LRL RLR 8 LRLR 14:8 LLRRLLRRLLRRL_ 8 RLRL 8t RLR LRL
+8 RLRL 7:8 zRzLzRzLzRzLzR 8 LRLR 8t LRL RLR 8 LRLR 7:8 zLzRzLzRzLzRzL 8 RLRL 8t RLR LRL
+8 RLRR 7:8 zLzRzLzRzLzRzL 8 RLRR 8t LLR LLR 8 LRLL 7:8 zRzLzRzLzRzLzR 8 LRLL 8t RRL RRL
+8 RLRL 7:8 zRzLzRzLzRzLR 8 LRLR 8t LRL RLR 8 LRLR 7:8 zLzRzLzRzLzRL 8 RLRL 8t RLR LRL
+8 RLRR 7:8 zLzRzLzRzLzRL 8 RLRR 8t LLR LLR 8 LRLL 7:8 zRzLzRzLzRzLR 8 LRLL 8t RRL RRL
